@@ -5,4 +5,5 @@
 5.file baru nomer 5
 6.file baru nomer 6
 7.kalau yang ini baru menambahakan file baru nomer 7
-8.fiel baru nomer 8
+8.file baru nomer 8
+9.file baru nomer 9
