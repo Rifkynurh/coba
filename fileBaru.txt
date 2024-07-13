@@ -1,0 +1,4 @@
+1.file baru nomer 1
+2.file baru nomer 2
+3.file baru nomer 3
+4.file baru nomer 4
